@@ -52,8 +52,8 @@ function App() {
           filteredImages.map((image) => {
             return (
               <div key={image.id} className='image-card'>
-                <a href={`/images/${image.imagenName}`}>
-                  <img src={`/images/${image.imagenName}`} alt="" className='image'></img>
+                <a href={`../images/${image.imagenName}`}>
+                  <img src={`../images/${image.imagenName}`} alt="" className='image'></img>
                 </a>
               </div>
             );
