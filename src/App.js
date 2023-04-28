@@ -52,8 +52,8 @@ function App() {
           filteredImages.map((image) => {
             return (
               <div key={image.id} className='image-card'>
-                <a href={`https://tahayk3.github.io/CatagoloMuebles/images/${image.imagenName}`}>
-                  <img src={`https://tahayk3.github.io/CatagoloMuebles/images/${image.imagenName}`} alt="" className='image'></img>
+                <a href={`https://tahayk3.github.io/CatalogoMuebles/images/${image.imagenName}`}>
+                  <img src={`https://tahayk3.github.io/CatalogoMuebles/images/${image.imagenName}`} alt="" className='image'></img>
                 </a>
               </div>
             );
