@@ -41,6 +41,12 @@ function App() {
           handleSetTag={setTag}
           tagActive={tag === 'mueble 5' ? true : false}
         />
+        <TagButton
+          name="mueble 6"
+          handleSetTag={setTag}
+          tagActive={tag === 'mueble 6' ? true : false}
+        />
+
       </div>
 
       <ComponenteTexto
