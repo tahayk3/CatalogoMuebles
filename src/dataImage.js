@@ -65,13 +65,12 @@ export default[
     {id: '58', imagenName: 'mueble6_1.gif', tag: 'mueble 6'},
     {id: '59', imagenName: 'mueble6_1.png', tag: 'mueble 6'},
     {id: '60', imagenName: 'mueble6_2.png', tag: 'mueble 6'},
-    {id: '61', imagenName: 'mueble6_3.jpg', tag: 'mueble 6'},
-    {id: '62', imagenName: 'mueble6_4.jpg', tag: 'mueble 6'},
-    {id: '63', imagenName: 'mueble6_5.jpg', tag: 'mueble 6'},
+    {id: '61', imagenName: 'mueble6_3.png', tag: 'mueble 6'},
+    {id: '62', imagenName: 'mueble6_4.png', tag: 'mueble 6'},
+    {id: '63', imagenName: 'mueble6_5.png', tag: 'mueble 6'},
     {id: '64', imagenName: 'mueble6_6.jpg', tag: 'mueble 6'},
     {id: '65', imagenName: 'mueble6_7.jpg', tag: 'mueble 6'},
     {id: '66', imagenName: 'mueble6_8.jpg', tag: 'mueble 6'},
-    {id: '67', imagenName: 'mueble6_9.jpg', tag: 'mueble 6'},
 
 
 ];
