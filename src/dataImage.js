@@ -68,9 +68,9 @@ export default[
     {id: '61', imagenName: 'mueble6_3.png', tag: 'mueble 6'},
     {id: '62', imagenName: 'mueble6_4.png', tag: 'mueble 6'},
     {id: '63', imagenName: 'mueble6_5.png', tag: 'mueble 6'},
-    {id: '64', imagenName: 'mueble6_6.jpg', tag: 'mueble 6'},
-    {id: '65', imagenName: 'mueble6_7.jpg', tag: 'mueble 6'},
-    {id: '66', imagenName: 'mueble6_8.jpg', tag: 'mueble 6'},
+    {id: '64', imagenName: 'mueble6_6.png', tag: 'mueble 6'},
+    {id: '65', imagenName: 'mueble6_7.png', tag: 'mueble 6'},
+    {id: '66', imagenName: 'mueble6_8.png', tag: 'mueble 6'},
 
 
 ];

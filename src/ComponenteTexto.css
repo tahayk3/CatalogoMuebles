@@ -26,7 +26,7 @@
     color: azure;
     display: flex;
     align-items: center;
-    animation-duration: 3.5s;
+    animation-duration: 4.0s;
     animation-name: slidein;
 }
 
@@ -36,7 +36,7 @@
     color: azure;
     display: flex;
     align-items: center;
-    animation-duration: 3.5s;
+    animation-duration: 4.0s;
     animation-name: slidein;
 }
 
@@ -46,14 +46,13 @@
     color: azure;
     display: flex;
     align-items: center;
-
-    animation-duration: 3.5s;
+    animation-duration: 4.0s;
     animation-name: slidein;
     
 }
 
 .icono {
-    font-size: 3.5rem;
+    font-size: 4.0rem;
 }
 
 @keyframes slidein {
