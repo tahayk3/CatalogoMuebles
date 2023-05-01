@@ -3,6 +3,8 @@ import './App.css';
 import images from './dataImage';
 import TagButton from './TagButton';
 import ComponenteTexto from './ComponenteTexto';
+import Contact from './Contact';
+import Footer from './Footer';
 
 
 function App() {
@@ -66,7 +68,8 @@ function App() {
           })
         }
       </div>
-
+      <Contact/>
+      <Footer/>
     </div>
   );
 }

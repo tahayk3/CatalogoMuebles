@@ -27,16 +27,16 @@ body {
 .tags {
     text-align: center;
     padding: 20px 0px;
-    background: linear-gradient(90deg, rgba(17, 17, 17, 1) 0%, rgba(43, 92, 224, 1) 64%);
+    background: linear-gradient(90deg, rgba(17, 17, 17, 1) 0%, rgb(67, 67, 165) 64%);
     width: 100%;
     border-bottom: 1px solid white;
-    
+    border-radius: 0rem 2rem 0rem 0rem;
 }
 
 .tag {
     border: none;
     color: #eee;
-    margin: 0px 10px;
+    margin: 0px 15px;
     background-color: transparent;
     cursor: pointer;
     font-size: 1.0rem;
